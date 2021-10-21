@@ -7,9 +7,9 @@ The user can register or login if the account already exists, edit his or her pr
 
 ## Architecture
 This application consists of three levels: 
-•	**Data Access Layer**
+• **Data Access Layer**
   -	entities classes
-  -	data context
+  -	data context.
 •	**Business Logic Layer**
   -	business logic classes for every entity
   -	generic repository to work with entities
@@ -18,3 +18,5 @@ This application consists of three levels:
   -	login/register pages
   -	profile page
   -	chat page
+
+![image](https://user-images.githubusercontent.com/43004999/138233578-c47d4b04-0d5e-40c0-9e7f-0ab984276970.png)
