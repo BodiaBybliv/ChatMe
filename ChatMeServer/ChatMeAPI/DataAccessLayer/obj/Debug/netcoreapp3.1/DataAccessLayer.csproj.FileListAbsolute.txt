@@ -1,0 +1,9 @@
+C:\Users\Comp4You\Desktop\test\ChatMeServer\ChatMeAPI\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+C:\Users\Comp4You\Desktop\test\ChatMeServer\ChatMeAPI\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\Comp4You\Desktop\test\ChatMeServer\ChatMeAPI\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\Comp4You\Desktop\test\ChatMeServer\ChatMeAPI\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Comp4You\Desktop\test\ChatMeServer\ChatMeAPI\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Comp4You\Desktop\test\ChatMeServer\ChatMeAPI\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Comp4You\Desktop\test\ChatMeServer\ChatMeAPI\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Comp4You\Desktop\test\ChatMeServer\ChatMeAPI\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\Comp4You\Desktop\test\ChatMeServer\ChatMeAPI\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb
