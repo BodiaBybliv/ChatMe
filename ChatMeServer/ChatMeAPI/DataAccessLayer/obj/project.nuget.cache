@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sAwZEewTP0SShi3XAku5SC5CK3wseLWPFGA+SuEDkdcfm9g5GBYuI7+wCsa/vNuV/LlPTXWchIbsYvIi3kJF+Q==",
+  "dgSpecHash": "iKsKwHNyqQRhS8qXb/PWAqX2NueZtu0Qr5Pt4KqpWlY+SmpsnXFWTHkZzRUAeYRLYbi8ZLrIcN85LX/tEXQq8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Comp4You\\Desktop\\Chatter\\ChatMeServer\\ChatMeAPI\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\Home\\OneDrive\\Робочий стіл\\ChatMe\\ChatMeServer\\ChatMeAPI\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

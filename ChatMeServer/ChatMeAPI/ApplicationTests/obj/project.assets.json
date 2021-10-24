@@ -1721,12 +1721,11 @@
       ]
     },
     "Microsoft.CSharp/4.0.1": {
-      "sha512": "17h8b5mXa87XYKrrVqdgZ38JefSUqLChUQpXgSnpzsM0nDOhE40FTeNWOJ/YmySGV6tG6T8+hjz6vxbknHJr6A==",
+      "sha512": "vxZUYChq5MlTElXXpDwxzYh+q0Qp48hl1lfx+8xB4P6aTAUa1vILDv9WUIvNEVMVcdizxe8T1n52Fjbj8nuVNA==",
       "type": "package",
       "path": "microsoft.csharp/4.0.1",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -2102,13 +2101,12 @@
       ]
     },
     "Newtonsoft.Json/9.0.1": {
-      "sha512": "U82mHQSKaIk+lpSVCbWYKNavmNH1i5xrExDEquU1i6I5pV6UMOqRnJRSlKO3cMPfcpp0RgDY+8jUXHdQ4IfXvw==",
+      "sha512": "ZkVJVoT7TsFgsF4RLVEHXZN8wmrX+HdsR34VXoE78DQGdA913zGiT9niorY4rCM5+z18hKGhwGO/0C/Gl3xuxg==",
       "type": "package",
       "path": "newtonsoft.json/9.0.1",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "lib/net20/Newtonsoft.Json.dll",
         "lib/net20/Newtonsoft.Json.xml",
         "lib/net35/Newtonsoft.Json.dll",
@@ -4589,12 +4587,11 @@
       ]
     },
     "System.Runtime.Serialization.Primitives/4.1.1": {
-      "sha512": "HZ6Du5QrTG8MNJbf4e4qMO3JRAkIboGT5Fk804uZtg3Gq516S7hAqTm2UZKUHa7/6HUGdVy3AqMQKbns06G/cg==",
+      "sha512": "vQ49xzOnMYnFXPB/k85VSoUU8eYJ/fNKDhOMsHRztNscCqrE6DH4Lu9qmNFAfLFYyyn5qYhSBHrCO+m0JZZjtA==",
       "type": "package",
       "path": "system.runtime.serialization.primitives/4.1.1",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5622,19 +5619,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Comp4You\\.nuget\\packages\\": {}
+    "C:\\Users\\Home\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Comp4You\\Desktop\\Chatter\\ChatMeServer\\ChatMeAPI\\ApplicationTests\\ApplicationTests.csproj",
+      "projectUniqueName": "C:\\Users\\Home\\OneDrive\\Робочий стіл\\ChatMe\\ChatMeServer\\ChatMeAPI\\ApplicationTests\\ApplicationTests.csproj",
       "projectName": "ApplicationTests",
-      "projectPath": "C:\\Users\\Comp4You\\Desktop\\Chatter\\ChatMeServer\\ChatMeAPI\\ApplicationTests\\ApplicationTests.csproj",
-      "packagesPath": "C:\\Users\\Comp4You\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Comp4You\\Desktop\\Chatter\\ChatMeServer\\ChatMeAPI\\ApplicationTests\\obj\\",
+      "projectPath": "C:\\Users\\Home\\OneDrive\\Робочий стіл\\ChatMe\\ChatMeServer\\ChatMeAPI\\ApplicationTests\\ApplicationTests.csproj",
+      "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Home\\OneDrive\\Робочий стіл\\ChatMe\\ChatMeServer\\ChatMeAPI\\ApplicationTests\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Comp4You\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5696,7 +5700,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -16,3 +16,13 @@ C:\Users\Comp4You\Desktop\Chatter\ChatMeServer\ChatMeAPI\BusinessLogicLayer\obj\
 C:\Users\Comp4You\Desktop\Chatter\ChatMeServer\ChatMeAPI\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.csproj.CoreCompileInputs.cache
 C:\Users\Comp4You\Desktop\Chatter\ChatMeServer\ChatMeAPI\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.dll
 C:\Users\Comp4You\Desktop\Chatter\ChatMeServer\ChatMeAPI\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.pdb
+C:\Users\Home\OneDrive\Робочий стіл\ChatMe\ChatMeServer\ChatMeAPI\BusinessLogicLayer\bin\Debug\netcoreapp3.1\BusinessLogicLayer.deps.json
+C:\Users\Home\OneDrive\Робочий стіл\ChatMe\ChatMeServer\ChatMeAPI\BusinessLogicLayer\bin\Debug\netcoreapp3.1\BusinessLogicLayer.dll
+C:\Users\Home\OneDrive\Робочий стіл\ChatMe\ChatMeServer\ChatMeAPI\BusinessLogicLayer\bin\Debug\netcoreapp3.1\BusinessLogicLayer.pdb
+C:\Users\Home\OneDrive\Робочий стіл\ChatMe\ChatMeServer\ChatMeAPI\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Home\OneDrive\Робочий стіл\ChatMe\ChatMeServer\ChatMeAPI\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\OneDrive\Робочий стіл\ChatMe\ChatMeServer\ChatMeAPI\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\Home\OneDrive\Робочий стіл\ChatMe\ChatMeServer\ChatMeAPI\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\Home\OneDrive\Робочий стіл\ChatMe\ChatMeServer\ChatMeAPI\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Home\OneDrive\Робочий стіл\ChatMe\ChatMeServer\ChatMeAPI\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.dll
+C:\Users\Home\OneDrive\Робочий стіл\ChatMe\ChatMeServer\ChatMeAPI\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.pdb
