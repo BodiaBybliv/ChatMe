@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Comp4You\\Desktop\\test\\ChatMeServer\\ChatMeAPI\\ApplicationTests\\ApplicationTests.csproj": {}
+    "C:\\Users\\Comp4You\\Desktop\\Chatter\\ChatMeServer\\ChatMeAPI\\ApplicationTests\\ApplicationTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Comp4You\\Desktop\\test\\ChatMeServer\\ChatMeAPI\\ApplicationTests\\ApplicationTests.csproj": {
+    "C:\\Users\\Comp4You\\Desktop\\Chatter\\ChatMeServer\\ChatMeAPI\\ApplicationTests\\ApplicationTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Comp4You\\Desktop\\test\\ChatMeServer\\ChatMeAPI\\ApplicationTests\\ApplicationTests.csproj",
+        "projectUniqueName": "C:\\Users\\Comp4You\\Desktop\\Chatter\\ChatMeServer\\ChatMeAPI\\ApplicationTests\\ApplicationTests.csproj",
         "projectName": "ApplicationTests",
-        "projectPath": "C:\\Users\\Comp4You\\Desktop\\test\\ChatMeServer\\ChatMeAPI\\ApplicationTests\\ApplicationTests.csproj",
+        "projectPath": "C:\\Users\\Comp4You\\Desktop\\Chatter\\ChatMeServer\\ChatMeAPI\\ApplicationTests\\ApplicationTests.csproj",
         "packagesPath": "C:\\Users\\Comp4You\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Comp4You\\Desktop\\test\\ChatMeServer\\ChatMeAPI\\ApplicationTests\\obj\\",
+        "outputPath": "C:\\Users\\Comp4You\\Desktop\\Chatter\\ChatMeServer\\ChatMeAPI\\ApplicationTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Comp4You\\AppData\\Roaming\\NuGet\\NuGet.Config",

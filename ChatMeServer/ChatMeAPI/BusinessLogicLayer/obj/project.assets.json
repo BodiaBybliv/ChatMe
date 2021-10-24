@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Comp4You\\Desktop\\test\\ChatMeServer\\ChatMeAPI\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Comp4You\\Desktop\\Chatter\\ChatMeServer\\ChatMeAPI\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
       "projectName": "BusinessLogicLayer",
-      "projectPath": "C:\\Users\\Comp4You\\Desktop\\test\\ChatMeServer\\ChatMeAPI\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+      "projectPath": "C:\\Users\\Comp4You\\Desktop\\Chatter\\ChatMeServer\\ChatMeAPI\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
       "packagesPath": "C:\\Users\\Comp4You\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Comp4You\\Desktop\\test\\ChatMeServer\\ChatMeAPI\\BusinessLogicLayer\\obj\\",
+      "outputPath": "C:\\Users\\Comp4You\\Desktop\\Chatter\\ChatMeServer\\ChatMeAPI\\BusinessLogicLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Comp4You\\AppData\\Roaming\\NuGet\\NuGet.Config",

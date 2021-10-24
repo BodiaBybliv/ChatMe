@@ -16,3 +16,12 @@ C:\Users\agali\source\repos\ApplicationChatMe\ChatMeServer\ChatMeAPI\DataAccessL
 C:\Users\agali\source\repos\ApplicationChatMe\ChatMeServer\ChatMeAPI\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
 C:\Users\agali\source\repos\ApplicationChatMe\ChatMeServer\ChatMeAPI\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
 C:\Users\agali\source\repos\ApplicationChatMe\ChatMeServer\ChatMeAPI\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\Comp4You\Desktop\Chatter\ChatMeServer\ChatMeAPI\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+C:\Users\Comp4You\Desktop\Chatter\ChatMeServer\ChatMeAPI\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\Comp4You\Desktop\Chatter\ChatMeServer\ChatMeAPI\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\Comp4You\Desktop\Chatter\ChatMeServer\ChatMeAPI\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Comp4You\Desktop\Chatter\ChatMeServer\ChatMeAPI\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Comp4You\Desktop\Chatter\ChatMeServer\ChatMeAPI\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Comp4You\Desktop\Chatter\ChatMeServer\ChatMeAPI\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Comp4You\Desktop\Chatter\ChatMeServer\ChatMeAPI\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\Comp4You\Desktop\Chatter\ChatMeServer\ChatMeAPI\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb

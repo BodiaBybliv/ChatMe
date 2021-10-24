@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\agali\\source\\repos\\ApplicationChatMe\\ChatMeServer\\ChatMeAPI\\ChatMeAPI\\ChatMeAPI.csproj": {}
+    "C:\\Users\\Comp4You\\Desktop\\Chatter\\ChatMeServer\\ChatMeAPI\\ChatMeAPI\\ChatMeAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\agali\\source\\repos\\ApplicationChatMe\\ChatMeServer\\ChatMeAPI\\ChatMeAPI\\ChatMeAPI.csproj": {
+    "C:\\Users\\Comp4You\\Desktop\\Chatter\\ChatMeServer\\ChatMeAPI\\ChatMeAPI\\ChatMeAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\agali\\source\\repos\\ApplicationChatMe\\ChatMeServer\\ChatMeAPI\\ChatMeAPI\\ChatMeAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Comp4You\\Desktop\\Chatter\\ChatMeServer\\ChatMeAPI\\ChatMeAPI\\ChatMeAPI.csproj",
         "projectName": "ChatMeAPI",
-        "projectPath": "C:\\Users\\agali\\source\\repos\\ApplicationChatMe\\ChatMeServer\\ChatMeAPI\\ChatMeAPI\\ChatMeAPI.csproj",
-        "packagesPath": "C:\\Users\\agali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\agali\\source\\repos\\ApplicationChatMe\\ChatMeServer\\ChatMeAPI\\ChatMeAPI\\obj\\",
+        "projectPath": "C:\\Users\\Comp4You\\Desktop\\Chatter\\ChatMeServer\\ChatMeAPI\\ChatMeAPI\\ChatMeAPI.csproj",
+        "packagesPath": "C:\\Users\\Comp4You\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Comp4You\\Desktop\\Chatter\\ChatMeServer\\ChatMeAPI\\ChatMeAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\agali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Comp4You\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,12 +49,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.13, 3.1.13]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -63,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

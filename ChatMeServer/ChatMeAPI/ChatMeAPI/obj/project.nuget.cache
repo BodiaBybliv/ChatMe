@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3nef0/H/9V+dkhwAPjwBFmmLxN9EL+N4l/6e8bxJhMAGfHPujtE9Ya5gNVtjl6t1w8AutIPXtF4z3892Gx8oBA==",
+  "dgSpecHash": "yq4Wu3kgXwTHnILLJJ9bwhb1oC6YGXJDEXwxII9Jj8bBuNOBxzAGQja799HmEvmbg5jagx8J7l/Rit0H7XeDgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\agali\\source\\repos\\ApplicationChatMe\\ChatMeServer\\ChatMeAPI\\ChatMeAPI\\ChatMeAPI.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\agali\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Comp4You\\Desktop\\Chatter\\ChatMeServer\\ChatMeAPI\\ChatMeAPI\\ChatMeAPI.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

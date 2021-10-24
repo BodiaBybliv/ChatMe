@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0PlDgag+N2klhD3yRYm5jshN23h15QNpQhBRIWVFRj6O8Iv6R3iWX2usJeKe30p8xj2Xc1InO2q+mLQfmCj0aA==",
+  "dgSpecHash": "5AB84F6OQttf23lyhOUqUkePoUZ8ud8CXyCrWS93kyoh2tupKNGOJlzZcMNhqQxqZ4ogBXNITGmew/cAFZHYkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Comp4You\\Desktop\\test\\ChatMeServer\\ChatMeAPI\\ApplicationTests\\ApplicationTests.csproj",
+  "projectFilePath": "C:\\Users\\Comp4You\\Desktop\\Chatter\\ChatMeServer\\ChatMeAPI\\ApplicationTests\\ApplicationTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Comp4You\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\Comp4You\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
