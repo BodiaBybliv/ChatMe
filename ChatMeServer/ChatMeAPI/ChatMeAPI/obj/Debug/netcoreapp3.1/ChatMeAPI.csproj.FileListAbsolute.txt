@@ -18,3 +18,64 @@ C:\Users\Comp4You\Desktop\test\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcor
 C:\Users\Comp4You\Desktop\test\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\ChatMeAPI.dll
 C:\Users\Comp4You\Desktop\test\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\ChatMeAPI.pdb
 C:\Users\Comp4You\Desktop\test\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\ChatMeAPI.genruntimeconfig.cache
+C:\Users\agali\source\repos\ApplicationChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\agali\source\repos\ApplicationChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\agali\source\repos\ApplicationChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\bin\Debug\netcoreapp3.1\ChatMeAPI.exe
+C:\Users\agali\source\repos\ApplicationChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\bin\Debug\netcoreapp3.1\ChatMeAPI.deps.json
+C:\Users\agali\source\repos\ApplicationChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\bin\Debug\netcoreapp3.1\ChatMeAPI.runtimeconfig.json
+C:\Users\agali\source\repos\ApplicationChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\bin\Debug\netcoreapp3.1\ChatMeAPI.runtimeconfig.dev.json
+C:\Users\agali\source\repos\ApplicationChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\bin\Debug\netcoreapp3.1\ChatMeAPI.dll
+C:\Users\agali\source\repos\ApplicationChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\bin\Debug\netcoreapp3.1\ChatMeAPI.pdb
+C:\Users\agali\source\repos\ApplicationChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\ChatMeAPI.csprojAssemblyReference.cache
+C:\Users\agali\source\repos\ApplicationChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\ChatMeAPI.AssemblyInfoInputs.cache
+C:\Users\agali\source\repos\ApplicationChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\ChatMeAPI.AssemblyInfo.cs
+C:\Users\agali\source\repos\ApplicationChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\ChatMeAPI.csproj.CoreCompileInputs.cache
+C:\Users\agali\source\repos\ApplicationChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\ChatMeAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\agali\source\repos\ApplicationChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\staticwebassets\ChatMeAPI.StaticWebAssets.Manifest.cache
+C:\Users\agali\source\repos\ApplicationChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\staticwebassets\ChatMeAPI.StaticWebAssets.xml
+C:\Users\agali\source\repos\ApplicationChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ChatMeAPI.styles.css
+C:\Users\agali\source\repos\ApplicationChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\ChatMeAPI.RazorTargetAssemblyInfo.cache
+C:\Users\agali\source\repos\ApplicationChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\ChatMeAPI.dll
+C:\Users\agali\source\repos\ApplicationChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\ChatMeAPI.pdb
+C:\Users\agali\source\repos\ApplicationChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\ChatMeAPI.genruntimeconfig.cache
+C:\Users\Comp4You\Desktop\Chatter\ChatMeServer\ChatMeAPI\ChatMeAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Comp4You\Desktop\Chatter\ChatMeServer\ChatMeAPI\ChatMeAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Comp4You\Desktop\Chatter\ChatMeServer\ChatMeAPI\ChatMeAPI\bin\Debug\netcoreapp3.1\ChatMeAPI.exe
+C:\Users\Comp4You\Desktop\Chatter\ChatMeServer\ChatMeAPI\ChatMeAPI\bin\Debug\netcoreapp3.1\ChatMeAPI.deps.json
+C:\Users\Comp4You\Desktop\Chatter\ChatMeServer\ChatMeAPI\ChatMeAPI\bin\Debug\netcoreapp3.1\ChatMeAPI.runtimeconfig.json
+C:\Users\Comp4You\Desktop\Chatter\ChatMeServer\ChatMeAPI\ChatMeAPI\bin\Debug\netcoreapp3.1\ChatMeAPI.runtimeconfig.dev.json
+C:\Users\Comp4You\Desktop\Chatter\ChatMeServer\ChatMeAPI\ChatMeAPI\bin\Debug\netcoreapp3.1\ChatMeAPI.dll
+C:\Users\Comp4You\Desktop\Chatter\ChatMeServer\ChatMeAPI\ChatMeAPI\bin\Debug\netcoreapp3.1\ChatMeAPI.pdb
+C:\Users\Comp4You\Desktop\Chatter\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\ChatMeAPI.csprojAssemblyReference.cache
+C:\Users\Comp4You\Desktop\Chatter\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\ChatMeAPI.AssemblyInfoInputs.cache
+C:\Users\Comp4You\Desktop\Chatter\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\ChatMeAPI.AssemblyInfo.cs
+C:\Users\Comp4You\Desktop\Chatter\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\ChatMeAPI.csproj.CoreCompileInputs.cache
+C:\Users\Comp4You\Desktop\Chatter\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\ChatMeAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Comp4You\Desktop\Chatter\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\staticwebassets\ChatMeAPI.StaticWebAssets.Manifest.cache
+C:\Users\Comp4You\Desktop\Chatter\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\staticwebassets\ChatMeAPI.StaticWebAssets.xml
+C:\Users\Comp4You\Desktop\Chatter\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ChatMeAPI.styles.css
+C:\Users\Comp4You\Desktop\Chatter\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\ChatMeAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Comp4You\Desktop\Chatter\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\ChatMeAPI.dll
+C:\Users\Comp4You\Desktop\Chatter\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\ChatMeAPI.pdb
+C:\Users\Comp4You\Desktop\Chatter\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\ChatMeAPI.genruntimeconfig.cache
+C:\Users\Home\OneDrive\Робочий стіл\ChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Home\OneDrive\Робочий стіл\ChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Home\OneDrive\Робочий стіл\ChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\bin\Debug\netcoreapp3.1\ChatMeAPI.exe
+C:\Users\Home\OneDrive\Робочий стіл\ChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\bin\Debug\netcoreapp3.1\ChatMeAPI.deps.json
+C:\Users\Home\OneDrive\Робочий стіл\ChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\bin\Debug\netcoreapp3.1\ChatMeAPI.runtimeconfig.json
+C:\Users\Home\OneDrive\Робочий стіл\ChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\bin\Debug\netcoreapp3.1\ChatMeAPI.runtimeconfig.dev.json
+C:\Users\Home\OneDrive\Робочий стіл\ChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\bin\Debug\netcoreapp3.1\ChatMeAPI.dll
+C:\Users\Home\OneDrive\Робочий стіл\ChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\bin\Debug\netcoreapp3.1\ChatMeAPI.pdb
+C:\Users\Home\OneDrive\Робочий стіл\ChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\ChatMeAPI.csproj.AssemblyReference.cache
+C:\Users\Home\OneDrive\Робочий стіл\ChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\ChatMeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\OneDrive\Робочий стіл\ChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\ChatMeAPI.AssemblyInfoInputs.cache
+C:\Users\Home\OneDrive\Робочий стіл\ChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\ChatMeAPI.AssemblyInfo.cs
+C:\Users\Home\OneDrive\Робочий стіл\ChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\ChatMeAPI.csproj.CoreCompileInputs.cache
+C:\Users\Home\OneDrive\Робочий стіл\ChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\ChatMeAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Home\OneDrive\Робочий стіл\ChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\staticwebassets\ChatMeAPI.StaticWebAssets.Manifest.cache
+C:\Users\Home\OneDrive\Робочий стіл\ChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\staticwebassets\ChatMeAPI.StaticWebAssets.xml
+C:\Users\Home\OneDrive\Робочий стіл\ChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ChatMeAPI.styles.css
+C:\Users\Home\OneDrive\Робочий стіл\ChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\ChatMeAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Home\OneDrive\Робочий стіл\ChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\ChatMeAPI.dll
+C:\Users\Home\OneDrive\Робочий стіл\ChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\ChatMeAPI.pdb
+C:\Users\Home\OneDrive\Робочий стіл\ChatMe\ChatMeServer\ChatMeAPI\ChatMeAPI\obj\Debug\netcoreapp3.1\ChatMeAPI.genruntimeconfig.cache

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2ibSOUr97WSupLFFM272zHo/UpAIvBbitDVLMc/JQSYf7HFxysUPIMBokuyynSDx6p2w6OnIdD8Sk1GECy/3iQ==",
+  "dgSpecHash": "dP0iN47/bTmrx+nL5bGpIJAyfoU21RzkSVbqWbfhB9Xm55ZIRwMwwtS4anR4fhgmkyekN2HKlLdAAu1CKVvnOA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Comp4You\\Desktop\\test\\ChatMeServer\\ChatMeAPI\\InfrastructureLayer\\InfrastructureLayer.csproj",
+  "projectFilePath": "C:\\Users\\Home\\OneDrive\\Робочий стіл\\ChatMe\\ChatMeServer\\ChatMeAPI\\InfrastructureLayer\\InfrastructureLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

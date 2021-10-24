@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0e4vhHZhq627XNVqYrUTU3TPBnsErCOKBZ/rZIpk7KL4iUnUfzcFaidkU2aFa0Z2v3dJxAW+bqklU+qr5CtRqQ==",
+  "dgSpecHash": "KxogG3L/mqs+wc2a2QXi4RRatPQ49QJURoARL1HoIafZ0RxVTp25FXlXfgaaQfIPkaJz2d6hBLzfwmL9HtflYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Comp4You\\Desktop\\test\\ChatMeServer\\ChatMeAPI\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+  "projectFilePath": "C:\\Users\\Home\\OneDrive\\Робочий стіл\\ChatMe\\ChatMeServer\\ChatMeAPI\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
