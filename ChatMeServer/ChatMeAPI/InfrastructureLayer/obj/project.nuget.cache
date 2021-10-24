@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2ibSOUr97WSupLFFM272zHo/UpAIvBbitDVLMc/JQSYf7HFxysUPIMBokuyynSDx6p2w6OnIdD8Sk1GECy/3iQ==",
+  "dgSpecHash": "5p+bw2wwbGExvlZJcLWw2E9MX16lrVPgPOqUaevgTkdlL7vhfSPvIPjsq6Hvt5OgR9Iee+mG8YiKnMkV6vSC0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Comp4You\\Desktop\\test\\ChatMeServer\\ChatMeAPI\\InfrastructureLayer\\InfrastructureLayer.csproj",
+  "projectFilePath": "C:\\Users\\agali\\source\\repos\\ApplicationChatMe\\ChatMeServer\\ChatMeAPI\\InfrastructureLayer\\InfrastructureLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

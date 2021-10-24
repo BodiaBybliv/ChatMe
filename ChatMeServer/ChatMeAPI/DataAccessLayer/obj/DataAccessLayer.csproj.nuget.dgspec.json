@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Comp4You\\Desktop\\test\\ChatMeServer\\ChatMeAPI\\DataAccessLayer\\DataAccessLayer.csproj": {}
+    "C:\\Users\\agali\\source\\repos\\ApplicationChatMe\\ChatMeServer\\ChatMeAPI\\DataAccessLayer\\DataAccessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Comp4You\\Desktop\\test\\ChatMeServer\\ChatMeAPI\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\Users\\agali\\source\\repos\\ApplicationChatMe\\ChatMeServer\\ChatMeAPI\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Comp4You\\Desktop\\test\\ChatMeServer\\ChatMeAPI\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\agali\\source\\repos\\ApplicationChatMe\\ChatMeServer\\ChatMeAPI\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "C:\\Users\\Comp4You\\Desktop\\test\\ChatMeServer\\ChatMeAPI\\DataAccessLayer\\DataAccessLayer.csproj",
-        "packagesPath": "C:\\Users\\Comp4You\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Comp4You\\Desktop\\test\\ChatMeServer\\ChatMeAPI\\DataAccessLayer\\obj\\",
+        "projectPath": "C:\\Users\\agali\\source\\repos\\ApplicationChatMe\\ChatMeServer\\ChatMeAPI\\DataAccessLayer\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\agali\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\agali\\source\\repos\\ApplicationChatMe\\ChatMeServer\\ChatMeAPI\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Comp4You\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\agali\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     }
