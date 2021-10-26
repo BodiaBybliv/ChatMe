@@ -7,3 +7,5 @@ The user can register or login if the account already exists, edit his or her pr
 
 ## Wiki
 To get more information on this project check our [wiki](https://github.com/BodiaBybliv/ChatMe/wiki).
+
+<img src="https://github.com/BodiaBybliv/ChatMe/blob/development/docs/images/logo.png" width="105" height="50">
