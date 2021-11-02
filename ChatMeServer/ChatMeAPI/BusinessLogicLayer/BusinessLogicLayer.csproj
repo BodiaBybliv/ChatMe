@@ -6,11 +6,14 @@
 
   <ItemGroup>
     <Folder Include="IServices\" />
-    <Folder Include="Models\AuthModels\" />
     <Folder Include="Models\ConversationDto\" />
     <Folder Include="Models\MessageDto\" />
     <Folder Include="Models\UserDto\" />
     <Folder Include="Models\PhotoDto\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccessLayer\DataAccessLayer.csproj" />
   </ItemGroup>
 
 </Project>
