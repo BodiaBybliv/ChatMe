@@ -1,7 +1,16 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="IServices\" />
+    <Folder Include="Models\AuthModels\" />
+    <Folder Include="Models\ConversationDto\" />
+    <Folder Include="Models\MessageDto\" />
+    <Folder Include="Models\UserDto\" />
+    <Folder Include="Models\PhotoDto\" />
+  </ItemGroup>
 
 </Project>
