@@ -1,7 +1,7 @@
 ﻿using DataAccessLayer.Entities;
 using DataAccessLayer.IRepositories;
 
-namespace Infrastructure.Repositories
+namespace InfrastructureLayer.Repositories
 {
     public class ConversationInfoRepository : Repository<ConversationInfo>, IConversationInfoRepository
     {

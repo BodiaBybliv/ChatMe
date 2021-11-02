@@ -1,7 +1,7 @@
 ﻿using DataAccessLayer.Entities;
 using DataAccessLayer.IRepositories;
 
-namespace Infrastructure.Repositories
+namespace InfrastructureLayer.Repositories
 {
     public class PhotoRepository : Repository<ConversationInfo>, IConversationInfoRepository
     {

@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Infrastructure.Repositories
+namespace InfrastructureLayer.Repositories
 {
     public class BlockedUserRepository : Repository<BlockedUser>, IBlockedUserRepository
     {
