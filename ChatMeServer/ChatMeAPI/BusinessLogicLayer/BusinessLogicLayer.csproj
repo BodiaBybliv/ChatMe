@@ -8,8 +8,12 @@
     <Folder Include="IServices\" />
     <Folder Include="Models\ConversationDto\" />
     <Folder Include="Models\MessageDto\" />
+    <Folder Include="Models\PhotoDto\Responces\" />
     <Folder Include="Models\UserDto\" />
-    <Folder Include="Models\PhotoDto\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="5.0.11" />
   </ItemGroup>
 
   <ItemGroup>
