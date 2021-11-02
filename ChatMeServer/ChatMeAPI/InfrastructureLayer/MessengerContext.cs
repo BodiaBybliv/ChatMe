@@ -2,7 +2,7 @@
 using InfrastructureLayer.Configurations;
 using Microsoft.EntityFrameworkCore;
 
-namespace Infrastructure
+namespace InfrastructureLayer
 {
     public class MessengerContext : DbContext
     {
