@@ -4,6 +4,7 @@ using Microsoft.Extensions.Options;
 using System;
 using System.Threading.Tasks;
 using System.Security.Claims;
+using InfrastructureLayer.Cache;
 
 namespace InfrastructureLayer.Extensions.MiddleWares
 {
@@ -19,14 +20,14 @@ namespace InfrastructureLayer.Extensions.MiddleWares
             _cache = cache;
         }
 
-        //public async Task Invoke(HttpContext context, IOptions<CacheOptions> cacheOptions)
-        //{
-        //    if (context.User.Identity.IsAuthenticated)
-        //    {
-        //        _cache.Set($"{context.Get()}", true, TimeSpan.FromSeconds(cacheOptions.Value.isOnlineTime));
-        //    }
+        public async Task Invoke(HttpContext context, IOptions<CacheOptions> cacheOptions)
+        {
+            if (context.User.Identity.IsAuthenticated)
+            {
+                _cache.Set($"{context.GetUserId()}", true, TimeSpan.FromSeconds(cacheOptions.Value.isOnlineTime));
+            }
 
-        //    await _next(context);
-        //}
+            await _next(context);
+        }
     }
 }
