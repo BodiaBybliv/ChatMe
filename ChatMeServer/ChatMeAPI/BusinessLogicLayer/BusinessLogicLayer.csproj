@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Models\AuthModels\" />
     <Folder Include="IServices\" />
     <Folder Include="Models\ConversationDto\" />
     <Folder Include="Models\MessageDto\" />
