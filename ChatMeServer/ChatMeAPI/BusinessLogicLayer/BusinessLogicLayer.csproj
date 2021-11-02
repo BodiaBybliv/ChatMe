@@ -9,8 +9,6 @@
     <Folder Include="Models\AuthModels\" />
     <Folder Include="Models\ConversationDto\" />
     <Folder Include="Models\MessageDto\" />
-    <Folder Include="Models\PhotoDto\Responces\" />
-    <Folder Include="Models\UserDto\" />
   </ItemGroup>
 
   <ItemGroup>
