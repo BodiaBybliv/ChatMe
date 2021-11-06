@@ -17,11 +17,11 @@ namespace InfrastructureLayer.Services.Helpers
     {
         private readonly IConfiguration _config;
 
-        private readonly IWebHostEnvironment _env;
+        private readonly IHostingEnvironment _env;
 
         private readonly HttpClient _client;
 
-        public PhotoHelper(IConfiguration config, IWebHostEnvironment env)
+        public PhotoHelper(IConfiguration config, IHostingEnvironment env)
         {
             _config = config;
 
