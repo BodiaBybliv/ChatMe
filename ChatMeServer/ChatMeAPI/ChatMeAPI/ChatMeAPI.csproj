@@ -8,5 +8,10 @@
     <Folder Include="Hubs\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessLogicLayer\BusinessLogicLayer.csproj" />
+    <ProjectReference Include="..\InfrastructureLayer\InfrastructureLayer.csproj" />
+  </ItemGroup>
+
 
 </Project>
