@@ -133,12 +133,6 @@ namespace ChatMeAPI
 
             services.AddMemoryCache();
 
-            //services.AddStackExchangeRedisCache(options =>
-            //{
-            //    options.Configuration = "localhost";
-            //    options.InstanceName = "RedisCache";
-            //});
-
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "My API", Version = "v1" });
@@ -186,6 +180,7 @@ namespace ChatMeAPI
             app.UseSwaggerUI(c =>
             {
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
+                c.RoutePrefix = string.Empty;
             });
 
             app.UseHttpsRedirection();
