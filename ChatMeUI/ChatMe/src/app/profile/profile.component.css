@@ -1,0 +1,38 @@
+.card {
+    margin-top: 75px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px #000;
+}
+
+img{
+    width:40px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+#notvalid{
+    color: lightcoral;
+}
+
+#updated{
+    color:green;
+    animation: update 5s;
+    visibility: hidden;
+}
+
+@keyframes update{
+
+    15%{
+        visibility: visible;
+    }
+
+    100% {
+        visibility: hidden;
+    }
+}
+
+#cardheader{
+    background: rgb(9,184,219);
+    background: linear-gradient(90deg, rgba(9,184,219,1) 16%, rgba(47,212,245,1) 47%, rgba(10,192,196,1) 91%);
+    border-radius: 10px;
+}
