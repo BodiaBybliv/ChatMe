@@ -1,1 +1,26 @@
-<p>search works!</p>
+<ul class="navbar-nav ml-auto">
+    <div class="dropdown">
+  
+      <div class="input-group md-form form-sm form-1 pl-0 m-0 p-0 mb-1">
+        <div class="input-group-prepend">
+          <span class="input-group-text cyan lighten-2" id="search"><i class="fas fa-search text-white"
+              aria-hidden="true" id="searchicon"></i></span>
+        </div>
+        <input id="searchinput" class="form-control my-0 py-1" [(ngModel)]="filter" type="text" placeholder="Search" name="search" aria-label="Search" (input)="search()" autocomplete="off">
+      </div>
+  
+      <div class="dropdown-content w-100" id="searchdiv">
+        <a class="dropdown-item dropitem m-0 p-0 w-100" *ngFor="let conv of SearchConv" (click)="createChat(conv.id,conv.type)">
+          <div class="row m-0 p-1 mt-1">
+            <div class="col-1">
+              <img [src]="conv.photo" class="userphoto mr-3 p-0">
+            </div>
+            <div id="searchname" class="col-sm mt-1 ml-3 overflow-auto">
+              <h5 class="dropdowntext m-0 p-0">{{conv.name}}</h5>
+            </div>
+          </div>
+        </a>
+      </div>
+  
+    </div>
+  </ul> 
