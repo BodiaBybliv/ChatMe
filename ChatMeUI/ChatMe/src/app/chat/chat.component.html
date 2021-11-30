@@ -1,1 +1,85 @@
-<p>chat works!</p>
+<div class="container m-2 p-0" id="mainchatcont">
+    <div class="row p-0 m-0">
+      <div class="container-fluid col-sm-2 m-0 p-0" id="chatbox">
+        <app-chatlist></app-chatlist>
+      </div>
+      <div class="container-fluid col-sm p-0 m-0">
+        <div class="row m-0 p-0">
+          <div class="col-sm" id="curuser">
+            <app-friendinfo *ngIf="chatservice.currentChatType==0"></app-friendinfo>
+            <app-groupinfo *ngIf="chatservice.currentChatType!==0"></app-groupinfo>
+          </div>
+        </div>
+        <div class="col-sm p-0 m-0 overflow-auto" id="contentdiv"  detect-scroll (onScroll)="scroll()">
+          <div *ngIf="messages.length==0" id="chatempty">
+            <img src="../../assets/running.png" width="30" height="30" class="d-inline-block align-top mr-1" alt="">
+            Type smth to your Friend...
+          </div>
+          
+          <div *ngFor="let item of messages">
+            <div class="row customcard" *ngIf="item.userId!=currentUser.id">
+              <div class="col-1 mt-2" *ngIf="item.userId!=currentUser.id">
+                <img [src]="GetUrl(item.photo)" class="cardimg">
+              </div>      
+              <div class="col-sm contentleft mt-2" *ngIf="item.userId!=currentUser.id">
+                  <p class="cardcontent">{{item.content}}</p>
+                  <img class="mesphoto mesphotorigth" *ngIf="item.messagePhoto!=null" [src]="GetUrl(item.messagePhoto)">
+              </div>
+              <div class="col-2 p-0 m-0" *ngIf="item.userId!=currentUser.id">
+                <p class="messagetime">{{ transformDate(item.timeCreated)}}</p>
+              </div>
+              <div class="col-1 p-0 m-0 pl-2" *ngIf="item.userId==currentUser.id || (chatservice.currentChatType==2 && currentUser.id==chatservice.currentChatAdmin)">
+                <a (click)="deleteMessage(item.messageId)">
+                  <img class="delmessicon" src="../../assets/delmessage.png">
+                </a>
+              </div>
+            </div>
+      
+            <div class="row left-row" *ngIf="item.userId==currentUser.id">
+              <div class="col-6">
+              </div>
+              <div class="col-1 p-0 m-0 p-0 timerigth" *ngIf="item.userId==currentUser.id">
+                <p class="messagetime rigthtime">{{transformDate(item.timeCreated)}}</p>
+              </div>
+              <div class="col-4 m-0 pt-1 contentrigth pt-2" *ngIf="item.userId==currentUser.id">
+                  <p style="text-align: justify;" class="textrigth">{{item.content}}</p>
+                  <img class="mesphoto" *ngIf="item.messagePhoto!=null" [src]="GetUrl(item.messagePhoto)">
+              </div>
+              <div class="col-1 m-0 pl-1 imgrigth text-right pt-2" id="divwithrigth" *ngIf="item.userId==currentUser.id || (chatservice.currentChatType==2 && currentUser.id==chatservice.currentChatAdmin)">
+                <a (click)="deleteMessage(item.messageId)" class="delmessiconrigth">
+                  <img class="delmessicon" src="../../assets/delmessage.png">
+                </a>
+                <img [src]="currentUser.photoName" class="rigthimgcontent">
+              </div>
+            </div>
+            </div>
+          </div>
+          <nav class="navbar navbar-dark mt-2" id="sendform"  [class.stretchform]="chatservice.currentChatType!==0">
+            <form class="form-inline col-sm" (ngSubmit)="sendMessage()" *ngIf="chatservice.currentChatType!==2 || currentUser.id==chatservice.currentChatAdmin">
+              <input class="form-control col-sm" id="sendinput" type="text" placeholder="Type"  [(ngModel)]="newMessage" name="message" aria-label="Search" autocomplete="off">
+              <button class="btn btn-outline-white btn-md my-2 my-sm-0 ml-3" type="submit">Send</button>
+            </form>
+            <div>
+              <div *ngIf="newPhoto!=null" id="mesPhotoDiv">
+                <img [src]="GetUrl(this.newPhoto)" width="70" height="70" alt="photo">
+                <a (click)="deletePhoto()">
+                  <img src="../../assets/removephoto.png" id="removephoto">
+                </a>
+              </div>
+              <a class="pr-2" *ngIf="chatservice.currentChatType!==2 || currentUser.id==chatservice.currentChatAdmin">
+                <img (click)="photochosen()" src="../../assets/attach.png" id="attach_photo_link" width="50" height="50" for="attach_photo">
+              </a>
+            </div>
+            <input *ngIf="chatservice.currentChatType!==2 || currentUser.id==chatservice.currentChatAdmin" style="display: none;" id="attach_photo_input" type="file" accept=".jpg,.jpeg,.png" (change)="photoselected($event)">
+                <i *ngIf="chatservice.currentChatType!==2 || currentUser.id==chatservice.currentChatAdmin" id="smileselect"
+            (click)="toggled = !toggled"
+            [(emojiPickerIf)]="toggled"
+            [emojiPickerDirection]="'bottom' || 'top' || 'left' || 'right'"
+            (emojiPickerSelect)="handleSelection($event)">
+            <img src="../../assets/emoji.png">
+                </i>
+          </nav>
+        </div>
+  
+    </div>
+  </div>

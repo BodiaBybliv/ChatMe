@@ -1,0 +1,58 @@
+.row{
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: #6F89C8;
+}
+
+.row:hover{
+    background-color: white;
+}
+
+img{
+    width: 40px;
+    height: 40px;
+    padding-top: 3px;
+    border-radius: 10px;
+}
+
+.chatname{
+    text-align: center;
+    padding-top: 10px;
+    display: inline-block;
+    white-space: nowrap;
+}
+
+.contentparagraph{
+    width:70px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.CurrentChat{
+    background-color: white;
+}
+
+#listofchats{
+    max-height: 80vh;
+}
+
+#listofchats::-webkit-scrollbar{
+    width:1px;
+}
+
+.online{
+    width: 20px;
+    height: 20px;
+}
+
+.marginleft{
+    margin-left: 25px;
+}
+
+.offline{
+    margin-right: 10px;
+}
+
+.chattime{
+    font-size: 12px;
+}

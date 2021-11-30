@@ -1,4 +1,5 @@
-import { Component, OnInit } from '@angular/core';
+import { ChatService } from './../services/chat.service';
+import { Component, OnInit, Input } from '@angular/core';
 
 @Component({
   selector: 'app-delete-check',
@@ -7,9 +8,17 @@ import { Component, OnInit } from '@angular/core';
 })
 export class DeleteCheckComponent implements OnInit {
 
-  constructor() { }
+  @Input()
+  id:number;
+  constructor(public chatservice:  ChatService) { }
 
-  ngOnInit(): void {
+  ngOnInit() {
   }
 
+  delete(){
+    this.chatservice.DeleteConversation(this.id)
+    .then(()=>{
+      document.getElementById("closecheck").click();
+    });  
+  }
 }
