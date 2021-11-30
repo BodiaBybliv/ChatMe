@@ -1,12 +1,15 @@
 import { Pipe, PipeTransform } from '@angular/core';
 
 @Pipe({
-  name: 'date'
+  name: 'MessageDate'
 })
-export class DatePipe implements PipeTransform {
+export class CurrentDate implements PipeTransform {
 
-  transform(value: unknown, ...args: unknown[]): unknown {
-    return null;
+  transform(value: Date): string {
+    let messageTime=new Date(value);
+
+    let minutes=messageTime.getMinutes()<10?`0${messageTime.getMinutes()}`:messageTime.getMinutes();
+    
+    return `${messageTime.getHours()} :${minutes}`
   }
-
 }
